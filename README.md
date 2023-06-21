@@ -13,6 +13,7 @@ Notes and exercises for [Launch School's][launch-school] [Core Curriculum][core-
 
 
 <!-- internal links -->
+
 [rb100]: (Programming & Back-end Prep Ruby/Introduction to Programming with Ruby/the_basics/exercises/basic_exercises.md)
 
 <!-- external links -->
