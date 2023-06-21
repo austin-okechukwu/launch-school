@@ -14,7 +14,7 @@ Notes and exercises for [Launch School's][launch-school] [Core Curriculum][core-
 
 <!-- internal links -->
 
-[rb100]: (/Users/austinokechukwu/Desktop/launch-school/Programming_Back-end_Prep_Ruby/Introduction_to_Programming_with_Ruby/the_basics/exercises/basic_exercises.md)
+[rb100]: (/Programming_Back-end_Prep_Ruby/Introduction_to_Programming_with_Ruby/the_basics/exercises/basic_exercises.md)
 
 <!-- external links -->
 
